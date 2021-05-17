@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+#navBar{
+    width: 92%;
+    margin: 0 auto;
+}
+
+#navBar .logo{
+    width:90px;
+}
+
+/* carousel starts */
+
+.Width90{
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+#carousel img{
+    height: 450px;
+    background-size: cover;
+}
+
+/* #carousel .carousel-item{
+    position: relative;
+} */
+
+#carousel .carousel-caption{
+    position: absolute;
+    top: 33%;
+    left: 9%!important;
+    color: #000;
+    text-align: left;
+  
+}
+#carousel .carousel-caption p{
+    width: 450px;
+}
+
+#carousel .carousel-caption a{
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+#fourthLinks{
+    width: 55%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 40px 0px ;
+    font-size: 18px;
+}
+
+/* fourth-Img starts */
+
+
+#fourth-Img .fourth-section{
+ margin-bottom: 35px;
+}
+#fourth-Img .fourth-section img{
+    width: 100%;
+}
+
+#fourth-Img .fourth-section h4{
+   margin-top: 25px;
+}
+
+/* fourth-Img ends */
+
+
+/* full-Width starts */
+
+
+#full-Width img{
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+}
+
+#full-Width .carousel-item{
+    position: relative;
+}
+
+#full-Width .carousel-caption{
+    position: absolute;
+    bottom: 33%;
+    left: 5%!important;
+    color: #000;
+    text-align: left;
+}
+#full-Width .carousel-caption p{
+    width: 400px;
+}
+
+#full-Width .carousel-caption a{
+    background-color: #000;
+    color: #fff;
+     padding: 5px 10px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+/* full-Width ends */
+
+/* Business-section starts */
+
+
+#Business-section h4{
+    padding: 15px 0;
+}
+
+#Business-section h5{
+    margin-top: 25px;
+}
+
+#Business-section img{
+    width: 100%;
+}
+
+
+
+
+
+/* Business-section ends */
+
+
+#Covid{
+    background: lightgrey;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 20px 20px;
+}
+
+
+#Covid a{
+   color: #000;
+}
+
+.links{
+    padding: 30px 0px;
+}
+
+.links .fa{
+    font-size: 23px;
+    margin-left: 10px;
+}
+
+.links .fa-facebook {
+   background: #4267B2; 
+   color: #fff;
+   padding: 5px;
+   
+}
+
+.links .fa-twitter {
+    background: #08a0e9; 
+    color: #fff;
+    padding: 5px;
+    
+ }
+
+ .links .fa-youtube {
+    background: #e62117; 
+    color: #fff;
+    padding: 5px;
+    
+ }
+
+ /* footer starts  */
+
+ #footer{
+     width: 100%;
+     background: lightgrey;
+     overflow: hidden;
+     color: #000;
+ }
+
+ #footer .footerContent{
+     width: 90%;
+     margin: 0 auto;
+     padding-top: 30px;
+ }
+ #footer .footerContent a{
+     color: #000;
+     font-size: 12px;
+ }
+
+ .map{
+     padding: 30px 0px;
+
+ }
+ 
+
+ .rightContent .fa-user-circle{
+     font-size: 18px;
+ }
+ .rightContent{
+     padding: 30px 0px;
+ }
+
+ #footer .footerContent .right {
+     display: flex;
+     justify-content: space-between;
+ }
+
+
+ .fa-copyright{
+     font-size: 12px;
+ }
+
+
+ /* The Ends */
