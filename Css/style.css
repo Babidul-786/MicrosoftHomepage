@@ -221,5 +221,18 @@
      font-size: 12px;
  }
 
+ /* add media query */
+
+ @media only screen and (max-width:600px){
+     
+    #fourthLinks{
+       flex-direction: column;
+      
+        
+    }
+
+ }
+
+
 
  /* The Ends */
